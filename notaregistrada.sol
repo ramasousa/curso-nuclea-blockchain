@@ -67,8 +67,6 @@ import "./titulo.sol";
     function dataPrevistaDeLiquidacao() external view returns (uint256) {
         return _dataLiquidacao;
     }
-    function detalhesDoTitulo() external view returns ( Titulo contrato ) {
-        return this;
-    }
+
 
  }
