@@ -7,7 +7,8 @@ import "./titulo.sol";
 /**
  * @title Custodia
  * @dev Armazena e controla a custodia de varios titulos do owner
- * @author Jeff Prestes
+ * @author Raul Sousa
+ * ID Custodia 0xaD331839019D8CBBd206ed96D0BE5872b35a96B0
  */
  contract Custodia is Owner {
 
